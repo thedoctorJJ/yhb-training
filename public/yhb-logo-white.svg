@@ -1,0 +1,14 @@
+<svg width="240" height="80" viewBox="0 0 240 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g fill="white">
+    <!-- YHB Letters -->
+    <path d="M20 15L35 40H5L20 15Z" />
+    <path d="M45 15H55V65H45V15Z" />
+    <path d="M65 15H75V35H85V15H95V65H85V45H75V65H65V15Z" />
+    
+    <!-- CPAs text -->
+    <text x="110" y="45" font-family="Arial" font-size="24" font-weight="bold">CPAs</text>
+    
+    <!-- Decorative line -->
+    <rect x="10" y="70" width="220" height="2" rx="1" />
+  </g>
+</svg>
